@@ -1,0 +1,8 @@
+C:\Users\ALUMNO\Documents\MH\lab_numero1\lab_numero1\bin\Debug\lab_numero1.exe.config
+C:\Users\ALUMNO\Documents\MH\lab_numero1\lab_numero1\bin\Debug\lab_numero1.exe
+C:\Users\ALUMNO\Documents\MH\lab_numero1\lab_numero1\bin\Debug\lab_numero1.pdb
+C:\Users\ALUMNO\Documents\MH\lab_numero1\lab_numero1\obj\Debug\lab_numero1.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Documents\MH\lab_numero1\lab_numero1\obj\Debug\lab_numero1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUMNO\Documents\MH\lab_numero1\lab_numero1\obj\Debug\lab_numero1.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Documents\MH\lab_numero1\lab_numero1\obj\Debug\lab_numero1.exe
+C:\Users\ALUMNO\Documents\MH\lab_numero1\lab_numero1\obj\Debug\lab_numero1.pdb
