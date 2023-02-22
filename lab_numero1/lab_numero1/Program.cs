@@ -12,26 +12,11 @@ namespace lab_numero1
     {
         static void Main(string[] args)
         {
-            persona pers = new persona();
-            WriteLine("INGRESE LOS DATOS DE LA PERSONA ");
-            ReadLine();
-            string perso = ReadLine();
+            persona persona = new persona();
+            persona.RegistroCliente();
 
-            WriteLine("INGRESE EL NOMBRE");
-            pers.Nombre = ReadLine();
-            WriteLine("INGRESE LA EDAD");
-            pers.Edad = Convert.ToInt32(ReadLine());
-            WriteLine("LOS DATOS INGRESADOS SON: \n" + "NOMBRE:" + pers.Nombre + "\n" + "EDAD:" + pers.Edad);
-            string datos = ReadLine();
-
-            vivienda vivien = new vivienda();
-            WriteLine("INGRESE EL DEPARTAMENTO");
-            vivien.Departamento = ReadLine();
-            WriteLine("INGRESE SU MUNICIPIO");
-            vivien.Municipio = ReadLine();
-            WriteLine("MUCHAS GARCIAS A LA PERSONA CON EL NOMBRE DE "+ "" + pers.Nombre+ "" + "\nY CON LA EDAD DE "+ "" +pers.Edad+ "" +" QUE VIVE EN EL MUNICIPÍO "+ "" +vivien.Municipio+
-                "\nDEL DEPARTAMENTO "+"" + vivien.Departamento+ "" + " FIN 6♦♪☺☼ ");
-            string pe = ReadLine();
+            Console.WriteLine(persona.GetInformacion());
+            Console.ReadLine();
 
         }
 

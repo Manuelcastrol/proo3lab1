@@ -6,3 +6,10 @@ C:\Users\ALUMNO\Documents\MH\lab_numero1\lab_numero1\obj\Debug\lab_numero1.cspro
 C:\Users\ALUMNO\Documents\MH\lab_numero1\lab_numero1\obj\Debug\lab_numero1.csproj.CoreCompileInputs.cache
 C:\Users\ALUMNO\Documents\MH\lab_numero1\lab_numero1\obj\Debug\lab_numero1.exe
 C:\Users\ALUMNO\Documents\MH\lab_numero1\lab_numero1\obj\Debug\lab_numero1.pdb
+C:\Users\MINEDUCYT\Documents\GitHub\proo3lab1\lab_numero1\lab_numero1\bin\Debug\lab_numero1.exe.config
+C:\Users\MINEDUCYT\Documents\GitHub\proo3lab1\lab_numero1\lab_numero1\bin\Debug\lab_numero1.exe
+C:\Users\MINEDUCYT\Documents\GitHub\proo3lab1\lab_numero1\lab_numero1\bin\Debug\lab_numero1.pdb
+C:\Users\MINEDUCYT\Documents\GitHub\proo3lab1\lab_numero1\lab_numero1\obj\Debug\lab_numero1.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\GitHub\proo3lab1\lab_numero1\lab_numero1\obj\Debug\lab_numero1.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Documents\GitHub\proo3lab1\lab_numero1\lab_numero1\obj\Debug\lab_numero1.exe
+C:\Users\MINEDUCYT\Documents\GitHub\proo3lab1\lab_numero1\lab_numero1\obj\Debug\lab_numero1.pdb
